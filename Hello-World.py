@@ -1,8 +1,10 @@
 print("Hello World")
 
-first = "Hello"
+first = " Hello"
 second = " World"
 
 print(first + second) 
 
 print(second + first) 
+
+print(first + first) 
