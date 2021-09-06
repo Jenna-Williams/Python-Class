@@ -1,4 +1,5 @@
 #Working with Lists
+#List Functions .append, .extend, .insert(1,2), .remove, .clear, .pop, .count, .sort, .copy
 import random
 games = ["Arcadia", "Sonic", "Dragon's Dogma"]
 
