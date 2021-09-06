@@ -12,6 +12,7 @@ print(first + first)
 #input()
 
 firstW = input("Please Enter A Word ")
-secondW = input("Please Enter A Word ")
+secondW = input("Please Enter Another Word ")
 combinedW = firstW + secondW
-print(combinedW)
+
+print("Your two words combined create the new word, " + combinedW.upper() + ". That's cool!!")
