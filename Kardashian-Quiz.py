@@ -52,6 +52,6 @@ else:
 
 print("You Got " + str(score) + " Out Of 5 Right")
 if score == 5:
-    print("Perfect Score You're A Honorary Dash Baby")
+    print("Perfect Score You're A Honorary Dash Baby " + player + "!")
 else:
-    print("Thanks For Playing")
+    print("Thanks For Playing " + player + "!")
