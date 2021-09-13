@@ -12,7 +12,7 @@ def letter_getter(word):
     for letter in word:
         print(letter)
         i+=1
-    print("There are " +str(i)+ " letters in the word " + word + ". The first letter is " + word[0].upper())
+    print("There are " +str(i)+ " letters in the word " + word.upper() + ". The first letter is " + word[0].upper())
 
 class game:
     def __init__(self, name, type, rating):
